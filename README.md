@@ -1,1 +1,1 @@
-# Bank-Note-Authentification-ANN
+# Bank-Note-Authentication-ANN
